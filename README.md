@@ -1,5 +1,6 @@
 # Call-Center-Home-Analysis-Dashboard
-![Uploading Screenshot 2025-11-12 104931.png…]()
+<img width="1158" height="653" alt="Screenshot 2025-11-12 104931" src="https://github.com/user-attachments/assets/6e628c11-c043-4514-8d2f-585cd9f86f13" />
+
 
  ## Project Overview
 The Call Dashboard Project focuses on analyzing customer service call data to monitor performance, identify patterns, and improve service efficiency using Power BI. The dashboard provides insights into call volume, response times, agent performance, and resolution rates. By leveraging Power BI, the project enables data-driven decisions to enhance customer experience and optimize operational processes.
